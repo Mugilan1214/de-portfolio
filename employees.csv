@@ -1,0 +1,11 @@
+emp_id,name,department,salary,experience,country
+1,Asha,Engineering,85000,3,India
+2,Ravi,Marketing,,1,India
+3,Priya,Engineering,91000,5,Netherlands
+4,Kiran,HR,47000,2,India
+5,Meera,Marketing,61000,4,Germany
+6,Arjun,Engineering,95000,6,Netherlands
+7,None,HR,43000,1,India
+8,Siva,Engineering,,4,Germany
+9,Devi,Marketing,58000,2,India
+10,Kumar,Engineering,102000,8,Netherlands
